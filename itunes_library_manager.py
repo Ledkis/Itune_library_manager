@@ -9,7 +9,7 @@ import os
 import plistlib
 import pickle
               
-class Itune_library_manager:
+class Itunes_library_manager:
     def __init__(self, itune_library_path = "iTunes Music Library"):
         self.itune_library_path = itune_library_path
         
